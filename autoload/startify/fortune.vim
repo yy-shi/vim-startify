@@ -1,7 +1,7 @@
 " Variables {{{1
 let s:cow = exists('g:startify_s_cow')
-      \? g:startify_s_cow
-      \:[
+      \ ? g:startify_s_cow
+      \ :[
       \ '       o',
       \ '        o   ^__^',
       \ '         o  (oo)\_______',
